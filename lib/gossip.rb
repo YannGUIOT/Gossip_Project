@@ -1,0 +1,6 @@
+class Gossip
+
+
+
+
+end
